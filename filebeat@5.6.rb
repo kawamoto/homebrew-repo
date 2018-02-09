@@ -1,6 +1,6 @@
 require 'formula'
 
-class Filebeat < Formula
+class FilebeatAT56 < Formula
   desc "File harvester to ship log files to Elasticsearch or Logstash"
   homepage "https://www.elastic.co/products/beats/filebeat"
   url "https://github.com/elastic/beats/archive/v5.6.3.tar.gz"
